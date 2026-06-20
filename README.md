@@ -1,16 +1,26 @@
-# project
+#  Student Management System
 
-A new Flutter project.
+A Student Management System designed to streamline student record management. This application provides an efficient way to store, manage, and retrieve student information through a user-friendly interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+-  Add new student records
+-  View student details
+-  Manage academic information
+-  Secure database storage
+-  Responsive and user-friendly interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Tech Stack
+
+- Dart
+- Flutter
+
+
+
+git hub link:
+git clone https://github.com/anaswara206/Student-Management-System.git
+
