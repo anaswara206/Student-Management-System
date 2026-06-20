@@ -22,5 +22,5 @@ A Student Management System designed to streamline student record management. Th
 
 
 git hub link:
-git clone https://github.com/anaswara206/Student-Management-System.git
+https://github.com/anaswara206/Student-Management-System.git
 
